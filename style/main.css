@@ -55,7 +55,7 @@ section.main-section{
 }
 .details .text{
     margin: 0 0 10px;
-    font-size: 15px;
+    font-size: 20px;
     font-style: oblique;
-    font-family: cursive;
+    font-family: monospace;
 }
